@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Turjo Das Dip</h1>
-<h3 align="center">A second-year student at American International University Bangladesh 📚. Currently diving into the world of technology and striving to make a mark in the coding universe.</h3>
+<h3 align="center">A student at American International University Bangladesh 📚. Currently diving into the world of technology and striving to make a mark in the coding universe.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
