@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turjox&label=Profile%20views&color=0e75b6&style=flat" alt="turjox" /> </p>
 
-- 🌱 I’m currently learning **C#,ALGORITHM**
+- 🌱 I’m currently learning **C#,ALGORITHM,OBJECT ORIENTED ANALYSIS & DESIGNING**
 
 - 📫 How to reach me **tdas41380@gmail.com**
 
