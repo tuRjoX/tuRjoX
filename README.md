@@ -16,10 +16,13 @@
 
 <h2 align="center">Contact with Me</h2>
 <p align="center">
-<a href="https://fb.com/turjo.das.dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turjo.das.dip" height="30" width="40" /></a>
-<a href="https://www.instagram.com/turjo0ntop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__t_u_r_j_o__dd__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/turjo007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turjo007" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/turjo-das-dip/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="turjo007" height="30" width="30" /></a>
+<a href="https://fb.com/turjo.das.dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turjo.das.dip" height="40" width="40" /></a>
+<a href="https://www.instagram.com/turjo0ntop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__t_u_r_j_o__dd__" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/turjo007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turjo007" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/turjo-das-dip/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="turjo007" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@turjo01" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" alt="turjo007" height="40" width="40" /></a>
+<a href="https://x.com/TuRj0X" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" alt="turjo007" height="40" width="40" /></a>
+<a href="https://discord.gg/UMwMm5D7Yy"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" alt="turjo007" height="40" width="40" /></a>
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
