@@ -31,7 +31,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,github,git,sublime,discord,gmail,linkedin" /><br>
 </div>
 <div align="center">
-  
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://github.com/tuRjoX/tuRjoX/blob/gh-pages/github-contribution-grid-snake.svg" />
+  <br/>
 </div>
 <br/>
 <hr/>
