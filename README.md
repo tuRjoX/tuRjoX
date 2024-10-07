@@ -1,4 +1,8 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=turjox&label=Profile%20views&color=0e75b6&style=flat" alt="turjox" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <img src="https://img.shields.io/github/followers/tuRjoX?label=Followers&style=social" alt="GitHub Badge" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=turjox&label=Profile%20views&color=0e75b6&style=flat" alt="turjox" />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Turjo+Das+Dip+!;" />
 </h1>
@@ -6,12 +10,18 @@
 <h3 align="center">A student at American International University Bangladesh 📚. Currently diving into the world of technology and striving to make a mark in the coding universe.
 </h3>
 
-<div align="center">
+<div align="Left">
+    
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on **[LifeLine Blood Bank Management System](https://github.com/tuRjoX/LifeLine-Blood-Bank)**
 
- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**
 
-💬 Ask me about **C++ , Java ,C# ,Database. or anything .**
+- 💬 Ask me about **C++ , Java ,C# ,Database. or anything .**
 
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- ⚡ Fun fact **I play games very often.**
  </div>
 
 <h2 align="center">Contact with Me</h2>
@@ -27,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,cs,dart,flutter,mysql,dotnet,mongodb,arduino" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,github,git,sublime,discord,gmail,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,cs,dotnet,dart,flutter" /> <img src="https://img.icons8.com/?size=50&id=39913&format=png&color=000000"/><img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000"/><img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,github,git,sublime,discord,gmail,linkedin" /><br>
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
