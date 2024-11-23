@@ -40,12 +40,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,cs,dotnet,dart,flutter" /> <img src="https://img.icons8.com/?size=50&id=39913&format=png&color=000000"/><img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000"/><img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,github,git,sublime,discord" /><br>
 </div>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://github.com/tuRjoX/tuRjoX/blob/gh-pages/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-<br/>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
