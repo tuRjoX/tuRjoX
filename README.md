@@ -13,7 +13,6 @@
 <div align="Left">
     
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[LifeLine Blood Bank Management System](https://github.com/tuRjoX/LifeLine-Blood-Bank)**
 
 - 🌱 I’m currently learning **Flutter**
 
