@@ -25,22 +25,22 @@
 
 <h2 align="center">Contact with Me</h2>
 <p align="center">
-<a href="https://fb.com/turjo.das.dip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turjo.das.dip" height="40" width="40" /></a>
-<a href="https://www.instagram.com/turjo0ntop/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__t_u_r_j_o__dd__" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/turjo007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turjo007" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/turjo-das-dip/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="turjo007" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@turjo01" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/youtube.svg" alt="turjo007" height="40" width="40" /></a>
-<a href="https://x.com/TuRj0X" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" alt="turjo007" height="40" width="40" /></a>
-<a href="https://discord.gg/UMwMm5D7Yy"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/discord.svg" alt="turjo007" height="40" width="40" /></a>
+<a href="https://fb.com/turjo.das.dip" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook"/></a>
+<a href="https://www.instagram.com/turjox" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/></a>
+<a href="https://www.hackerrank.com/turjo007" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank"/></a>
+<a href="https://www.linkedin.com/in/t-u-r-j-o/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/></a>
+<a href="https://www.youtube.com/@turjo01" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/></a>
+<a href="https://x.com/TuRj0X" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x"/></a>
+<a href="https://discord.gg/UMwMm5D7Yy"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/></a>
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,cs,dotnet,dart,flutter" /> <img src="https://img.icons8.com/?size=50&id=39913&format=png&color=000000"/><img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000"/><img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,github,git,sublime,discord" /><br>
-</div>
 
-<hr/>
+<div align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,py,dart,html,css,js,ts,matlab"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,flutter,tailwind,react,vue,nextjs,angular,bootstrap,nodejs"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,sqlserver,mongodb"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,anaconda,androidstudio,vscode,visualstudio,idea,eclipse,codeblocks,googlecolab,cloudflare,desmos,git,gitbash,github,figma"/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
