@@ -36,10 +36,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,py,dart,html,css,js,ts,matlab"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,flutter,tailwind,react,vue,nextjs,angular,bootstrap,nodejs"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,py,dart,html,css,js,ts,r"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,flutter,tailwind,react,nextjs,bootstrap,nodejs"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,sqlserver,mongodb"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,anaconda,androidstudio,vscode,visualstudio,idea,eclipse,codeblocks,googlecolab,cloudflare,desmos,git,gitbash,github,figma"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,anaconda,androidstudio,vscode,visualstudio,idea,eclipse,codeblocks,googlecolab,cloudflare,desmos,git,gitbash,github,figma,matlab"/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
